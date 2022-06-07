@@ -1,6 +1,4 @@
 const Wrapper = (props) => {
-  console.log(props);
-
   return props.children;
 };
 
